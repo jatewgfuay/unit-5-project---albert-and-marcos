@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="{XdRAhD/rF[cl{lz:!/k" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="5d*+=TKVDC=X|mA#Co$d"><value name="img"><shadow type="background_image_picker" id="1NCtM9mk~NcXV9HWsc!."><field name="img">img`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="~x7,-Vr,@S]|Q=/]iw~I" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="~.,..Pjy:eIrV/w7ZH.s"><value name="img"><shadow type="background_image_picker" id="$0)DH]@${eB0yrH+S[(W"><field name="img">img`
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
