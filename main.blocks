@@ -136,4 +136,4 @@ cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="6k4jP(RU|E[H3fL^UPje"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="6k4jP(RU|E[H3fL^UPje"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block><block type="gameinterval" id="i,3Br%;,6v:Hx.4fX|o]" x="89" y="284"><value name="period"><shadow type="timePicker" id="]t!!?|_jYn(5MG}]]zWq"><field name="ms">500</field></shadow></value></block></xml>

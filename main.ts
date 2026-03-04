@@ -138,3 +138,6 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
+game.onUpdateInterval(500, function () {
+	
+})
